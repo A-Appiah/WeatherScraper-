@@ -4,7 +4,7 @@ This code is for the Front End design of a weather app. See the Branch for actua
 <!doctype html>
 <html>
 <head>
-    <title>Alfred's Weather App</title>
+    <title></title>
 
 <meta charset="utf-8" />
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
